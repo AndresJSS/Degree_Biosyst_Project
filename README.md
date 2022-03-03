@@ -1,4 +1,4 @@
-# Degree Biosyst Project - Solar CFD and thermodynamic modeling ☀️
+# BSc. Degree Biosyst Project - Solar CFD and thermodynamic modeling ☀️
 
 This repository contains some documentation related to my BSc degree final project.
 
